@@ -1,4 +1,4 @@
-Name,ring,Quadrant,isNew,Description
+name,ring,quadrant,isNew,description
 Open Source,Assess,OS - Technology,FALSE,
 OS - Windows,Core,OS - Technology,FALSE,
 OS - Linux,Assess,OS - Technology,FALSE,
